@@ -5,6 +5,7 @@
 .mvn
 HELP.md
 mvnw.cmd
+mvnw
 # Log file
 *.log
 
