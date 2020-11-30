@@ -2,7 +2,9 @@
 ### Java template
 # Compiled class file
 *.class
-
+.mvn
+HELP.md
+mvnw.cmd
 # Log file
 *.log
 
